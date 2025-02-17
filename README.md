@@ -1,2 +1,3 @@
 # kritikajain-demo
-This is my Git repository
+This is my first Git repository
+auther - kritika jain
